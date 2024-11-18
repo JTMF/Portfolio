@@ -606,6 +606,21 @@ button {
     opacity: 1;
 }
 
+.about_taital {
+    width: 100%;
+    float: left;
+    font-size: 40px;
+    color: #f5c729;
+    font-weight: bold;
+    text-align: center;
+}
+
+.about_taital_1 {
+    color: #292929;
+    border-bottom: 5px solid #363636;
+}
+
+
 .text {
     color: white;
     font-size: 20px;
@@ -747,7 +762,7 @@ textarea#comment.massage-bt::placeholder {
     text-align: center;
     font-size: 16px;
     color: #fefefd;
-    background-color: #fa7e23;
+    background-color: #0000FF;
     padding: 14px;
     margin-top: 40px;
     display: block;
