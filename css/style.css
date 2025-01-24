@@ -627,7 +627,9 @@ button {
     margin: 0 auto;
 }
 
-
+.modal-title {
+    color: #000000;
+}
 
 .container_main:hover .overlay {
     opacity: 1;
