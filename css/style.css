@@ -59,7 +59,7 @@ h6 {
     padding: 0 0 10px 0;
     font-weight: normal;
     line-height: normal;
-    color: #111111;
+    color: #ffffff;
     margin: 0
 }
 
@@ -273,11 +273,40 @@ button {
     float: left;
     padding-left: 100px;
     padding-top: 100px;
+    color: #ffffff;
+}
+
+.banner_taital_main2 {
+    text-align: center;
+    padding-left: 100px;
+    padding-top: 100px;
+    font-size: 10;
+    color: #ffffff;
 }
 
 .banner_taital {
     width: 100%;
     float: left;
+    font-size: 60px;
+    color: #fefefd;
+    font-weight: bold;
+    padding-bottom: 0px;
+    line-height: 70px;
+}
+
+.banner_taitab {
+    width: 100%;
+    float: left;
+    font-size: 20px;
+    color: #000000;
+    font-weight: bold;
+    padding-bottom: 0px;
+    line-height: 40px;
+}
+
+.banner_taita {
+    width: 100%;
+    float: center;
     font-size: 60px;
     color: #fefefd;
     font-weight: bold;
@@ -598,9 +627,7 @@ button {
     margin: 0 auto;
 }
 
-.container_main {
-    position: relative;
-}
+
 
 .container_main:hover .overlay {
     opacity: 1;
@@ -610,6 +637,15 @@ button {
     width: 100%;
     float: left;
     font-size: 40px;
+    color: #f5c729;
+    font-weight: bold;
+    text-align: center;
+}
+
+.about_taital2 {
+    width: 100%;
+    float: left;
+    font-size: 30px;
     color: #f5c729;
     font-weight: bold;
     text-align: center;
